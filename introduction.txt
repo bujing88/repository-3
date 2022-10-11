@@ -1,0 +1,9 @@
+def printHello():
+    print("안녕하세요")
+
+def printName():
+    print("저는 정보경입니다.")
+
+if __name__ == "__main__":
+    printHello()
+    printName()
